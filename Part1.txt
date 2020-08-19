@@ -1,0 +1,18 @@
+CSU Fresno State CERN Computing Class, Spring 2020
+Analysis Final Project for Gabriel
+
+Part 1:
+
+WW boson pair production, via quark-antiquark annihilation
+
+Final State signature:
+     2 jets (quark hadronization)
+     1 lepton
+     MeT from corresponding neutrino
+     
+Other processes that share the same signature:
+     WZ -> lepton + neutrino + 2jets     
+     ttbar -> lepton + neutrino + 2jets
+     
+What samples from list of datasets to use?  -----????
+     Only use WW samples, since that is what we're interested in
