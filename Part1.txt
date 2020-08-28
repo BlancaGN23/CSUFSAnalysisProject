@@ -11,9 +11,15 @@ Final State signature:
      MeT from corresponding neutrino
      
 Other processes that share the same signature:
-     WZ -> lepton + neutrino + 2jets     
+     WZ -> lepton + neutrino + 2jets
+     ZZ -> ee + jets
      ttbar -> lepton + neutrino + 2jets
+          
      
-What samples from list of datasets to use?  -----????
-     Only use WW samples, since that is what we're interested in
-     As well as the two given data sample sets
+What samples from list of datasets to use?
+     mc_105985.WW.root	Diboson process WW
+     mc_147770.Zee.root	Zee + Jets
+     mc_117049.ttbar_had.root	tt → Jets	
+     
+     
+Info taken from: https://www-cdf.fnal.gov/~sfyrla/dibosons/
