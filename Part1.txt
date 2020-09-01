@@ -12,14 +12,12 @@ Final State signature:
      
 Other processes that share the same signature:
      WZ -> lepton + neutrino + 2jets
-     Z -> ee + jets
      ttbar -> lepton + neutrino + 2jets
           
      
 What samples from list of datasets to use?
      mc_105985.WW.root	Diboson process WW
      mc_105987.WZ.root	Diboson process WZ
-     mc_147770.Zee.root	Zee + Jets
      mc_117049.ttbar_had.root	tt → Jets	
      
      
