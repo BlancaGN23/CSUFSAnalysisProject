@@ -18,7 +18,7 @@ Other processes that share the same signature:
 What samples from list of datasets to use?
      mc_105985.WW.root	Diboson process WW
      mc_105987.WZ.root	Diboson process WZ
-     mc_117049.ttbar_had.root	tt → Jets	
+     mc_117049.ttbar_had.root	tt → Jets	(quarks)
      
      
 Info taken from: https://www-cdf.fnal.gov/~sfyrla/dibosons/
